@@ -1,0 +1,20 @@
+# 비밀정보
+.env
+*.env
+!.env.example
+*.key
+*.pem
+
+# 원본 문서 (개인정보 포함)
+*.hwp
+*.hwpx
+*.pptx
+*.apk
+
+# OS / 편집기
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+.idea/
+.vscode/
+__pycache__/
